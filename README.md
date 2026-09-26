@@ -64,3 +64,27 @@ Project:
 
 Python-Task2-BMICalculator/
 
+### Task 3 - Random Password Generator
+
+**Status:** Completed
+
+**Tier:** Advanced
+
+A Tkinter-based secure Random Password Generator with:
+
+- Configurable password length
+- Uppercase, lowercase, numbers, and symbols
+- Secure generation using Python `secrets`
+- Password strength and entropy indicator
+- Clipboard copying using `pyperclip`
+- Ambiguous-character exclusion
+- Last five generated passwords stored only for the current session
+- Masked session history
+- Input validation and error handling
+- Automated unit tests
+
+Project:
+
+```text
+Python-Task3-RandomPasswordGenerator/
+
